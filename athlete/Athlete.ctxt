@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=name\ ranking\ personalBest
+comment0.target=Athlete(java.lang.String,\ int,\ float)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Athlete\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getRanking()
+comment3.params=
+comment3.target=float\ getPersonalBest()
+comment4.params=newRanking
+comment4.target=void\ setRanking(int)
+comment5.params=newPersonalBest
+comment5.target=void\ setPersonalBest(float)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=points
+comment7.target=void\ updateRank(float)
+numComments=8
